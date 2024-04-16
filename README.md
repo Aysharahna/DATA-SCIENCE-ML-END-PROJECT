@@ -1,4 +1,5 @@
 CUSTOMER ATTRITION ANALYSIS
+
 DATA OVERVIEW
 The dataset contains a total of 43 columns containing information about customers of Verizonet. It includes various features such as customer demographics, service subscriptions, billing details, and churn-related information, with the target variable indicating whether a customer has churned or not.
 
